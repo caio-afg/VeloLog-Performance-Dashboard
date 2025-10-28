@@ -40,6 +40,7 @@ O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medid
 <br>
 <img width="531" height="214" alt="image" src="https://github.com/user-attachments/assets/3aa63263-b172-4a77-adfa-889743d3b061" />
 <br>
+<br>
 
 **3. Atrasos por Região**
 Para identificar geograficamente os problemas, utilizei um Gráfico de Barras 100% Empilhadas, mostrando a proporção de cada status de entrega por região. Isso revela rapidamente as regiões com maior incidência de atrasos.
