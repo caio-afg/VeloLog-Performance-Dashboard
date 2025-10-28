@@ -37,9 +37,9 @@ Aqui está uma visão completa do dashboard que construí. Ele foi projetado par
 
 
 2. KPI Principal: Taxa de Atraso (SLA)
-O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medidor" para mostrar claramente onde estamos em relação à nossa meta de 5%.
+O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medidor" e um cartão para mostrar claramente onde estamos em relação à nossa meta de 30%. O cartão serve para dar destaque ao número vergonhoso da Taxa de Atraso.
 
-<img width="220" height="161" alt="image" src="https://github.com/user-attachments/assets/b79cc897-aced-4d29-95b2-d23e197b5a2f" />
+<img width="531" height="214" alt="image" src="https://github.com/user-attachments/assets/3aa63263-b172-4a77-adfa-889743d3b061" />
 
 
 
