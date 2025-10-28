@@ -40,8 +40,9 @@ Aqui está uma visão completa do dashboard que construí. Ele foi projetado par
 **2. KPI Principal: Taxa de Atraso (SLA)**
 O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medidor" e um cartão para mostrar claramente onde estamos em relação à nossa meta de 30%. O cartão serve para dar destaque ao número vergonhoso da Taxa de Atraso.
 
-<img width="531" height="214" alt="image" src="https://github.com/user-attachments/assets/3aa63263-b172-4a77-adfa-889743d3b061" />
 <br>
+<img width="531" height="214" alt="image" src="https://github.com/user-attachments/assets/3aa63263-b172-4a77-adfa-889743d3b061" />
+<br> ---
 
 
 
@@ -49,7 +50,7 @@ O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medid
 Para identificar geograficamente os problemas, utilizei um Gráfico de Barras 100% Empilhadas, mostrando a proporção de cada status de entrega por região. Isso revela rapidamente as regiões com maior incidência de atrasos.
 
 <img width="316" height="243" alt="image" src="https://github.com/user-attachments/assets/ff8765f9-95bf-432a-976c-2a112b719492" />
-<br>
+<br> ---
 
 
 
