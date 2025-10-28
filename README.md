@@ -1,5 +1,8 @@
 # VeloLog-Performance-Dashboard
 Análise de Performance Logística com Power BI | Projeto VeloLog
+
+![Status do Projeto: Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
+
 Olá a todos!
 
 Tenho o prazer de compartilhar um projeto de Dashboard que desenvolvi utilizando o Power BI, focado na análise de performance de operações logísticas. Este projeto foi concebido para resolver um problema real de negócios: identificar gargalos em entregas e otimizar custos em uma empresa de entregas, a VeloLog.
@@ -90,5 +93,11 @@ Monitorar de perto a eficiência de custos por KM.
 
 Este projeto demonstra minha capacidade de transformar dados brutos em insights acionáveis usando Power BI e DAX.
 
-Agradecimento
+Agradecimentos
 Obrigado por conferir este projeto! Estou aberto a feedbacks e discussões sobre análise de dados e Power BI.
+
+👨‍💻 Autor:
+
+Desenvolvido por Caio Augusto Freitas Geraets.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-geraets/)
