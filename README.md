@@ -41,7 +41,7 @@ Aqui está uma visão completa do dashboard que construí. Ele foi projetado par
 O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medidor" e um cartão para mostrar claramente onde estamos em relação à nossa meta de 30%. O cartão serve para dar destaque ao número vergonhoso da Taxa de Atraso.
 
 <img width="531" height="214" alt="image" src="https://github.com/user-attachments/assets/3aa63263-b172-4a77-adfa-889743d3b061" />
-
+<br>
 
 
 
@@ -49,7 +49,7 @@ O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medid
 Para identificar geograficamente os problemas, utilizei um Gráfico de Barras 100% Empilhadas, mostrando a proporção de cada status de entrega por região. Isso revela rapidamente as regiões com maior incidência de atrasos.
 
 <img width="316" height="243" alt="image" src="https://github.com/user-attachments/assets/ff8765f9-95bf-432a-976c-2a112b719492" />
-
+<br>
 
 
 
@@ -57,7 +57,7 @@ Para identificar geograficamente os problemas, utilizei um Gráfico de Barras 10
 Para entender qual parceiro logístico contribui mais para os atrasos, um Gráfico de Anel (Donut Chart) foi utilizado, filtrado para mostrar apenas fretes atrasados.
 
 <img width="343" height="257" alt="image" src="https://github.com/user-attachments/assets/6571a6b9-f865-4e9a-8ebf-4c4222d08031" />
-
+<br>
 
 
 
@@ -65,7 +65,7 @@ Para entender qual parceiro logístico contribui mais para os atrasos, um Gráfi
 Este visual, um Gráfico de Barras 100% Empilhadas, compara a proporção de atrasos entre os tipos de frete "Expresso" e "Econômico".
 
 <img width="373" height="227" alt="image" src="https://github.com/user-attachments/assets/327d8bcb-1961-4235-81dd-cac26ab3f6bc" />
-
+<br>
 
 
 
@@ -73,7 +73,7 @@ Este visual, um Gráfico de Barras 100% Empilhadas, compara a proporção de atr
 Para monitorar a eficiência de custos, criei um KPI que calcula o custo médio por quilômetro rodado, incluindo frete e combustível.
 
 <img width="258" height="180" alt="image" src="https://github.com/user-attachments/assets/c1152408-3486-45d9-8042-70443672a206" />
-
+<br>
 
 
 
