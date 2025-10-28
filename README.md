@@ -47,38 +47,34 @@ O primeiro e mais crítico KPI é a Taxa de Atraso. Utilizei um visual de "Medid
 3. Atrasos por Região
 Para identificar geograficamente os problemas, utilizei um Gráfico de Barras 100% Empilhadas, mostrando a proporção de cada status de entrega por região. Isso revela rapidamente as regiões com maior incidência de atrasos.
 
+<img width="316" height="243" alt="image" src="https://github.com/user-attachments/assets/ff8765f9-95bf-432a-976c-2a112b719492" />
 
 
 
-
-(Insira AQUI a print/screenshot SOMENTE do Gráfico de Barras 100% Empilhadas de "Atrasos por Região") Insight: Claramente, a região Nordeste se destaca com uma alta proporção de atrasos.
 
 4. Performance da Transportadora
 Para entender qual parceiro logístico contribui mais para os atrasos, um Gráfico de Anel (Donut Chart) foi utilizado, filtrado para mostrar apenas fretes atrasados.
 
+<img width="343" height="257" alt="image" src="https://github.com/user-attachments/assets/6571a6b9-f865-4e9a-8ebf-4c4222d08031" />
 
 
 
-
-(Insira AQUI a print/screenshot SOMENTE do Gráfico de Anel de "Performance da Transportadora") Insight: A TransNorte é a principal responsável pelos atrasos identificados.
 
 5. Atrasos por Tipo de Frete
 Este visual, um Gráfico de Barras 100% Empilhadas, compara a proporção de atrasos entre os tipos de frete "Expresso" e "Econômico".
 
+<img width="373" height="227" alt="image" src="https://github.com/user-attachments/assets/327d8bcb-1961-4235-81dd-cac26ab3f6bc" />
 
 
 
-
-(Insira AQUI a print/screenshot SOMENTE do Gráfico de Barras 100% Empilhadas de "Atrasos por Tipo de Frete") Insight: O frete Econômico mostra uma taxa de atraso proporcionalmente maior, mesmo que o número absoluto seja semelhante ao Expresso, indicando um problema de eficiência.
 
 6. Custo Médio por KM Rodado
 Para monitorar a eficiência de custos, criei um KPI que calcula o custo médio por quilômetro rodado, incluindo frete e combustível.
 
+<img width="258" height="180" alt="image" src="https://github.com/user-attachments/assets/c1152408-3486-45d9-8042-70443672a206" />
 
 
 
-
-(Insira AQUI a print/screenshot SOMENTE do Cartão (Card) com o "Custo Médio por KM Rodado") Explicação DAX: A medida considera apenas fretes Entregues ou Atrasados para garantir que o cálculo seja baseado em dados completos de KM rodado e custos.
 
 💡 Impacto e Próximos Passos
 Este dashboard oferece ao Diretor de Operações da VeloLog a clareza necessária para tomar decisões baseadas em dados. Ele pode agora:
