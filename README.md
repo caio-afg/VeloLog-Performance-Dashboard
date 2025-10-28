@@ -76,6 +76,16 @@ Para monitorar a eficiência de custos, criei um KPI que calcula o custo médio 
 
 
 
+
+### 📂 Arquivos do Projeto
+
+Sinta-se à vontade para baixar os arquivos utilizados neste projeto, seja para explorar a base de dados original ou para analisar as medidas DAX, relacionamentos e a estrutura do dashboard no Power BI Desktop.
+
+* **[Base de Dados (Excel)](./Base_VeloLog.xlsx)** - O arquivo `.xlsx` com todos os dados fictícios que serviram de fonte.
+* **[Dashboard (Power BI)](./VeloLog-Performance-Dashboard.pbix)** - O arquivo `.pbix` completo. Sinta-se à vontade para abri-lo, explorar os visuais e as fórmulas DAX.
+
+
+
 💡 Impacto e Próximos Passos
 Este dashboard oferece ao Diretor de Operações da VeloLog a clareza necessária para tomar decisões baseadas em dados. Ele pode agora:
 
