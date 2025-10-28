@@ -4,11 +4,11 @@
 
 ## 📝 Análise de Performance Logística com Power BI | Projeto VeloLog
 
-**Olá a todos!**
+Olá a todos!
 
 Tenho o prazer de compartilhar um projeto de Dashboard que desenvolvi utilizando o Power BI, focado na análise de performance de operações logísticas. Este projeto foi concebido para resolver um problema real de negócios: identificar gargalos em entregas e otimizar custos em uma empresa de entregas, a VeloLog.
 
-### 🚀 O Problema de Negócio:
+## 🚀 O Problema de Negócio:
 A VeloLog, uma empresa de logística de médio porte, enfrentava queixas crescentes de atrasos nas entregas. O desafio era entender a raiz do problema:
 
 Quais regiões estavam com pior desempenho?
@@ -21,12 +21,12 @@ Como os custos de frete e combustível impactam a performance?
 
 O objetivo principal era criar um painel de controle intuitivo que permitisse ao Diretor de Operações identificar rapidamente onde intervir.
 
-### 📊 A Base de Dados:
+## 📊 A Base de Dados:
 Para simular o cenário, utilizei uma base de dados fictícia no Excel, contendo informações essenciais sobre cada frete, como: ID_Frete, Data_Pedido, Data_Prevista, Data_Entrega, Status_Entrega, Regiao_Destino, Transportadora, Tipo_Frete, Custo_Frete, Custo_Combustivel e KM_Rodado.
 
 Esta base foi a espinha dorsal para a criação dos nossos indicadores e visuais no Power BI.
 
-### ✨ O Dashboard no Power BI:
+## ✨ O Dashboard no Power BI:
 Com os dados carregados e tratados, criei um Dashboard interativo, focado em clareza e actionable insights. A seguir, apresento os principais visuais desenvolvidos:
 
 **1. Visão Geral do Dashboard**
@@ -78,7 +78,7 @@ Para monitorar a eficiência de custos, criei um KPI que calcula o custo médio 
 
 
 
-### 📂 Arquivos do Projeto:
+## 📂 Arquivos do Projeto:
 
 Sinta-se à vontade para baixar os arquivos utilizados neste projeto, seja para explorar a base de dados original ou para analisar as medidas DAX, relacionamentos e a estrutura do dashboard no Power BI Desktop.
 
@@ -100,7 +100,7 @@ Monitorar de perto a eficiência de custos por KM.
 
 Este projeto demonstra minha capacidade de transformar dados brutos em insights acionáveis usando Power BI e DAX.
 
-### Agradecimentos:
+## Agradecimentos:
 Obrigado por conferir este projeto! Estou aberto a feedbacks e discussões sobre análise de dados e Power BI.
 
 **👨‍💻 Autor:**
